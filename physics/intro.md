@@ -17,4 +17,4 @@ Physics is an experimental discipline, though there are purely theoretical aspec
 | Temperature (T)           | Kelvin (K)    | Celsius (C)                          |
 | Energy ($E_K, E_P$)       |               | Joule ($\pu{J = kg m^2 / s^2}$)      |
 | Luminous intensity (I)    | Candela (cd)  | $\pu{W/m^2}$                         |
-| Charge (q)                |               | Coloumb                                     |
+| Charge (q)                |               | Coloumb                              | 
