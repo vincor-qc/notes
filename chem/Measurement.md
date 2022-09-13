@@ -39,7 +39,7 @@ $\frac{9.60 \times 10^7}{1.60 \times 10^4} = 6.00 \times 10^3.$
 
 # Significant Figures
 
-Significant figures (s.f. or sigfigs for short) indicate how precise a measurement is. For physical properties like mass, time, volume, or length, there will always be some margin of error, so a perfectly precise measurement is impossible.
+Significant figures (s.f. or "sig figs" for short) indicate how precise a measurement is. For physical properties like mass, time, volume, or length, there will always be some margin of error, so a perfectly precise measurement is impossible.
 
 ## Counting significant figures
 
@@ -72,7 +72,7 @@ $25$, $0.025$, and $0.0025$ all have two s.f.
 
 **Rule 6:** Exact numbers (like SI unit conversion factors) have an infinite number of s.f. and will not limit the precision of a calculation.
 
-For example, the conversion rate $1\text{ inch} = 2.54\text{ cm}$ has $\infty$ s.f.
+For example, the conversion rate $\pu{1 inch} = \pu{2.54 cm}$ has $\infty$ s.f.
 
 ## Rounding: The Rule of 5
 
@@ -86,4 +86,21 @@ Now:
 
 The number of s.f. is equal to all certain digits PLUS the first uncertain digit (which you estimate.)
 
-For example, on a digital balance with a precision of $\pm 0.01 \text{g}$, the mass of one penny might be $2.35\text{g}$ and so its measurement with uncertainty would be $2.35 \pm 0.01\text{g}$.
+For example, on a digital balance with a precision of $\pm \pu{0.01 g}$, the mass of one penny might be $\pu{2.35 g}$ and so its measurement with uncertainty would be $2.35 \pm \pu{0.01 g}$.
+
+# Accuracy vs Precision
+
+**Accuracy:** An accurate measurement is close to the actual value.
+
+**Precise:** A precise measurement is _reproducible_. For the purposes of IB chemistry, more s.f. equates to higher precision
+
+An instrument may be precise yet inaccurate; this occurs when it hasn't been calibrated properly. (For example, a scale could be incorrectly configured so it starts at $1$ instead of $0$. In this case, all the measurements it yields would be precise and reproducible but be off by $1$ from the actual value.)
+
+## Examples
+
+Assume that the actual width of a room is $\pu{5.32000 m}$, and the following measurements are obtained:
+
+1. $\pu{5.45217 m}$: not close to actual value, so not accurate. However, measurement has many s.f. so it's precise.
+2. $\pu{5.32001 m}$: close to actual value and has many s.f., so both accurate and precise.
+3. $\pu{5.3 m}$: close to actual value but does not have many s.f., so accurate but imprecise.
+5. $\pu{7.1 m}$: not close to actual value and does not have many s.f., so neither accurate nor precise.
