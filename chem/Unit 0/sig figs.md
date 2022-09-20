@@ -50,3 +50,20 @@ Now:
 The number of s.f. is equal to all certain digits PLUS the first uncertain digit (which you estimate.)
 
 For example, on a digital balance with a precision of $\pm \pu{0.01 g}$, the mass of one penny might be $\pu{2.35 g}$ and so its measurement with uncertainty would be $2.35 \pm \pu{0.01 g}$.
+
+
+## Sig Figs and Calculations
+
+To add/substract s.f.
+1. Line up the decimal points
+2. Add the numbers and round it to the least precise decimal place
+
+$\underbrace{2.00}_{\text{3 s.f.}} + \underbrace{3.0000}_{\text{5 s.f.}} = \underbrace{5.00}_{\text{3 s.f.}}$
+
+To multilply/divide s.f.
+1. Multiply the s.f. normally
+2. Round the number to the smallest s.f.
+
+To do calculations involving both adding/substracting and multiplying/dividing, then do not round until the final result, and then round to the smallest s.f. present in the original calculation
+
+
