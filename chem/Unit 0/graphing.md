@@ -38,6 +38,7 @@ They must include:
 5. Ploting and interpreting the data
 	- Place each (x, y) data point on the graph as close to the values recorded as possible. Make sure all your plotted data points are visible on the graph
 	-  Check [[graphing#Data Shapes]]
+	- Ensure to use a ruler for linear data.
 6. Interpreting
 	- A graph is not complete until you show the relationship of the variable with a line or a curve
 	- Data points that do not fall withint the trend of the other may represent errors
