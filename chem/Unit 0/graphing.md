@@ -18,33 +18,36 @@ Graphing is a way to see
 
 **Drawn Graphs** are used to make quantitative measurements from data.
 They must include:
-1. Title
+**1. Title**
 	- Must state the actual variables being compared, usually in the form of "Dependant variable vs. Independant variable"
 	- The title should be at the top of the graph or in the top part of the graph line portion
-2. Axes and Labels
+**2. Axes and Labels**
 	- Time is often the independant variable, and plotted on the x axis
 	- Y axis is for the dependant variable
 	- All measured variables have units, axis should reflect that.
-3. Zero Point
+**3. Zero Point**
 	- Should be plotted if and only if two vartiables represent a valid piece of data when they both have a value of zero. 
 	- The data recorded or given to your, may not actually state this information but the point should be included on the graph. 
 	- If there is not a real zero point, or you do not know if one is possible, you should not include one on your graph.
-4. Axis scale uniformity and full use of graph
+**4. Axis scale uniformity and full use of graph**
 	- Each axis scale should be linear and have regular divisions of the scale values
 	- Use scientific notation for very small or large numbers. **No Fractions!**
 	- Do not make a scale out of only your actual data points. For each varible, look at the upper and lower values of each set of data and make a scale to fit that data.
 	- *Use the full piece of graphing paper.* Do not draw a small graph in a corner if the paper is large.
 	- The Y axis does not need to start at zero. Shift the axis to have a better view at the data.
-5. Ploting and interpreting the data
+**5. Ploting and interpreting the data**
 	- Place each (x, y) data point on the graph as close to the values recorded as possible. Make sure all your plotted data points are visible on the graph
 	-  Check [[graphing#Data Shapes]]
 	- Ensure to use a ruler for linear data.
-6. Interpreting
-	- A graph is not complete until you show the relationship of the variable with a line or a curve
-	- Data points that do not fall withint the trend of the other may represent errors
-	- Never connect the dots of the data, since each of them will carry uncertainty errors
-	- Our best fit line or curve is the best representation of the relationship between two variables.
-	- Interpolation *must be shown* on the graph, where nessecary.
+**6. Interpreting**
+   
+> [!warning]
+> A graph is not complete until you show the relationship of the variable with a line or a curve
+
+- Data points that do not fall withint the trend of the other may represent errors
+- Never connect the dots of the data, since each of them will carry uncertainty errors
+- Our best fit line or curve is the best representation of the relationship between two variables.
+- Interpolation *must be shown* on the graph, where nessecary.
 
 **Charles Law**
 - For every 1 degree Celcius Increase, the volume of gas, if pressure is held constant, increased by a factor of 1/273
@@ -57,3 +60,15 @@ They must include:
 3. No Relationship: Just like IB students.
 
 
+## Uncertainties
+- Must include uncertainty on data table
+  
+>[!tip] Formula
+>The Max slope = $\frac{\text{(Highest point + uncertainty) - (Lowest point - uncertainty)}}{\text{Run}}$
+>
+>The Min slope = $\frac{\text{(Highest point - uncertainty) - (Lowest point + uncertainty)}}{\text{Run}}$
+>
+>Average slope = $\frac{\text{max + min}}{2}$
+>
+>Uncertainty of the slope = $\frac{\text{max - min}}{2}$
+>

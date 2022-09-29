@@ -26,7 +26,7 @@
 - Kelvin is the SI unit for temperature, but seldom used in real life. Celsius is the most common scale in most contries.
 - Farenheit is the Imperial Unit used in the US
 
-$$ \text{celcius} = \text{fahrenheit value} - \pu{32F} \times \frac{1}{1.8}$$
+$$ \text{celcius} = (\text{fahrenheit value} - \pu{32F}) \times \frac{5}{9}$$
 
 **Celcius** is based on the freezing and boiling point of water
 **Kelvin** is based on the absolute zero point where all atomic activity stops

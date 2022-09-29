@@ -11,6 +11,7 @@
 - In the summer of '44, before beginning post-secondary education at Morehouse College in Atlanta, King spent some time on a tobacco farm in Connecticut
 - He marveled at how the races coexisted peacefully outside the South, sparking a lifelong hatred of racial segregation
 
+> [!quote]
 > "Negroes and whites go [to] the same church [...] I never [thought] that a person of my race could eat anywhere"
  
 - At college, King originally studied medicine/law, but abandoned them at the request of his father, who desired King to follow in his footsteps and enter the ministry
@@ -44,7 +45,9 @@
 - In the spring of 1963, King campaigned along with local protestors to end segregation at lunch counters and in hiring practices, for which he was jailed
 - Some of the white clergy (and even some of the black clergy) looked upon King's practices with disdain, reasoning that negotiation would be far more effective than protest
 	- In response, King wrote an eloquent letter from the Birmingham jail in which he was imprisoned, stating:
-	  > You may well ask: “Why direct action? Why sit-ins, marches and so forth? Isn’t negotiation a better path?” You are quite right in calling for negotiation. Indeed, this is the very purpose of direct action. Nonviolent direct action seeks to create such a crisis and foster such a tension that a community which has constantly refused to negotiate is forced to confront the issue.	
+>[!quote] 
+>You may well ask: “Why direct action? Why sit-ins, marches and so forth? Isn’t negotiation a better path?” You are quite right in calling for negotiation. Indeed, this is the very purpose of direct action. Nonviolent direct action seeks to create such a crisis and foster such a tension that a community which has constantly refused to negotiate is forced to confront the issue.	
+
 - King helped organize the historic March on Washington
 	- On August 28, 1963, he delivered the now-famous speech "I Have a Dream" in front of an audience of more than 200,000
 - His efforts resulted in the passage of the Civil Rights Act in 1964
@@ -54,8 +57,7 @@
 
 - King's longstanding stance on nonviolent protest above all else led to clashes with younger Black civil rights activists, who increasingly labelled him as passive and old
 - E.g., during the March 1965 demonstrations in Selma, Alabama, King unexpectedly turned back upon facing a barricade of state troopers to avoid bloodshed, raising suspicions that there had been an arrangement with federal and local authorities
-- Malcolm X went as far as to say the following:
-	> "Concerning nonviolence, it is criminal to teach a man not to defend himself when he is the constant victim of brutal attacks"
+- Malcolm X went as far as to say the following: *"Concerning nonviolence, it is criminal to teach a man not to defend himself when he is the constant victim of brutal attacks"*
 
 ## Assassination
 

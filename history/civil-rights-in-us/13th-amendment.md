@@ -22,6 +22,7 @@ The Thirteenth Amendment to the Constitution of the United States -- signed into
 
 ## Emancipation Proclamation
 
+> [!quote]
 > "[A]ll persons held as slaves within any States, or designated part of the State, the people whereof shall be in rebellion against the United States, shall be then, thenceforward, and forever free."
 
 - Up to 1862, Lincoln, despite being a lifelong opponent of slavery, was conflicted as to how precisely to deal with the matter

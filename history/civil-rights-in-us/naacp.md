@@ -5,7 +5,9 @@
 - This riot led to the creation of the NAACP
 - A group of white liberals (includiong Mary White Ovington and Oswald Garrison Villard) issue a call for racial justice
 - About 60 African Americans (including W.E.B. Du Bois) answered the call
-- **Feb 12, 1909**: The NAACP was born and officially recognized
+
+> [!info]
+> **Feb 12, 1909**: The NAACP was born and officially recognized
 
 
 ## Purpose
