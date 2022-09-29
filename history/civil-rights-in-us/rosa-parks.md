@@ -1,17 +1,25 @@
 # Rosa Parks
 
-## Early life
+## Life
 
+*Early Life*
 - Born in Tuskegee, Alabama on February 4, 1913 to James and Leona McCauley
 - Moved at age 2 to Pine Level, Alabama, to be closer to grandparents
-- Brother Sylvester was born in 1915; parents split shortly thereafter
+- Parents split in 1915
 - Family relocated again to Montgomery, Alabama, when Rosa was 11
 - Mother was a teacher and thus did her best to provide Rosa with a good education
 - Attended high school at Alabama State Teachers' College for Negroes
-- Dropped out in 11th grade to care for ailing grandmother and later mother
+- Dropped out in 11th grade to care of grandmother and later mother
 - Married long-time NAACP member Raymond Parks in 1932
 	- With his encouragement, Rosa finished her last year of high school the following year and earned her diploma
 - Worked as a seamstress
+
+*Later Life*
+- Parks moved to Detroit in the wake of the ruling due to sustained harassment and threats
+- Became an aide to Congressman John Conyers Jr. in 1965
+- Co-founded Rosa and Raymond Parks Institute for Self-Development in 1987
+- Awarded Congressional Gold Medal in 1999, the highest honor conferred upon civilians
+- Died at the age of 92 on October 24, 2005
 
 ## Roots of activism
 
@@ -41,13 +49,6 @@
 - Local white population was highly disgruntled with this; Nixon and MLK's homes were bombed
 - However, that did not stop the Supreme Court from ruling bus segregation unconstitutional on November 13, 1956, marking the end of the protests 
 
-## Later life
-
-- Parks moved to Detroit in the wake of the ruling due to sustained harassment and threats
-- Became an aide to Congressman John Conyers Jr. in 1965
-- Co-founded Rosa and Raymond Parks Institute for Self-Development in 1987
-- Awarded Congressional Gold Medal in 1999, the highest honor conferred upon civilians
-- Died at the age of 92 on October 24, 2005
 
 # Sources
 

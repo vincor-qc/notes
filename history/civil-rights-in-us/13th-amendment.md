@@ -1,25 +1,20 @@
 # 13th Amendment
 
-> "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction".
-
 The Thirteenth Amendment to the Constitution of the United States -- signed into law in 1865 following the conclusion of the Civil War -- formally abolished slavery. It was also the first direct mention of slavery in the Constitution.
 
 ## Founding Fathers
 
 - Claimed to be opposed to slavery on a moral basis, but all of the earliest presidents (excluding John Adams) owned enslaved persons
-	- White House was built in no small part due to the labor of slaves
-	- Thomas Jefferson -- despite calling slavery a "moral depravity", a "hideous blot", and an "assemblage of horrors" -- continued owning slaves throughout the duration of his life and profited immensely as a result
-- Thus, founding documents of the US contained no mention whatsoever of slavery, leaving the matter for future generations to resolve
+- White House was built with help from slave labor
+- Thomas Jefferson called slavery a "moral depravity", a "hideous blot", and an "assemblage of horrors", but continued to own slaves throughout the duration of his life
+- Founding documents of the US contained no mention whatsoever of slavery
 
-## Buildup to the Civil War
+## Civil War
 
-- **1815-1861**: economy of Northern states diversified away from agriculture; industrialization took places
-- Investments into transportation systems, financial industries, and communication networks
-- In contrast, Southern economy was based primarily on plantations which produced cotton (and thus was reliant on slaves for labor)
-	- Diversifying seemed an unwise business decision, as price of cotton skyrocketed
-	- Per-capita wealth of Southern whites was 2x Northerners in 1860
-- At the same time, more and more Northerners began supporting abolishing slavery out of a sense of morality
-	- This made white Southerners -- whose livelihoods depended on slave labor -- anxious
+- **1815-1861**: the northen states' economies began to shift to industries, rather than agriculture
+- They invested into transportation systems, financial industries, and communication networks
+- Souther economies were based primarily on plantations which produced cotton (and cotton was extremely profitable, rendering farmer 2x richer than their northern counterparts)
+- More and more Northerners began supporting abolishing slavery out of a sense of morality
 - **1860**: Abraham Lincoln, candidate of the antislavery Republican Party, wins the presidential election
 	- Consequently, South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas secede and form the Confederate States of America
 - **April 2, 1861**: Rebels open fire on Fort Sumter, marking the beginning of the Civil War
@@ -30,7 +25,7 @@ The Thirteenth Amendment to the Constitution of the United States -- signed into
 > "[A]ll persons held as slaves within any States, or designated part of the State, the people whereof shall be in rebellion against the United States, shall be then, thenceforward, and forever free."
 
 - Up to 1862, Lincoln, despite being a lifelong opponent of slavery, was conflicted as to how precisely to deal with the matter
-- Became convinced that emancipating (i.e., setting free) slaves in Southern states would be a sound strategical move and would help the North win the war
+- Became convinced that emancipating slaves would help the North win the war
 - As the proclamation applied to states outside Lincoln's control at the time, it had very little effect on actually freeing slaves and was therefore mostly symbolic
 
 ## Ratification

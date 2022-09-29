@@ -1,6 +1,6 @@
 # Marther Luther King Jr.
 
-## Early life
+## Life
 
 - Martin Luther King Jr., original name Michael King, Jr., was born January 15, 1929 in Atlanta, Georgia
 - Came from a middle-class family and had comparatively comfortable upbringing to most
@@ -9,21 +9,19 @@
 - Lived on Auburn Avenue, known as "Black Wall Street" for its rich connections with Black businesses and churches
 - Was very close to his grandmother; her fatal heart attack when King was 12 caused the latter to spiral into depression and attempt suicide
 - In the summer of '44, before beginning post-secondary education at Morehouse College in Atlanta, King spent some time on a tobacco farm in Connecticut
-	- Marveled at how the races coexisted peacefully outside the South, sparking a lifelong hatred of racial segregation
-	- Wrote in a letter:
-		> "Negroes and whites go [to] the same church [...] I never [thought] that a person of my race could eat anywhere"
-- At college, King originally studied medicine/law, but abandoned them in senior year at the request of his father, who desired King to follow in his footsteps and enter the ministry
+- He marveled at how the races coexisted peacefully outside the South, sparking a lifelong hatred of racial segregation
+
+> "Negroes and whites go [to] the same church [...] I never [thought] that a person of my race could eat anywhere"
+ 
+- At college, King originally studied medicine/law, but abandoned them at the request of his father, who desired King to follow in his footsteps and enter the ministry
 - College president Benjamin Mays (civil rights activist) left a deep impression on King
-	- In the past, Mays had criticized the African American community for its inaction in the face of oppressions
 - Graduated from Morehouse in 1948
 - Spent next few years at Crozer Theological Seminary in Chester, Pennsylvania; there, he was exposed to Gandhi's philosophy of nonviolence
 - Elected president of the student body there for his oratorical gifts, no small feat for a Black student in a predominantly white school
 - After Crozer, King went to Boston University
 - During his time in Boston, King met Coretta Scott; they later married in 1953
 
-## Role in Montgomery Bus Boycott
-
-Also see [[rosa-parks | Rosa Parks]].
+## Montgomery Bus Boycott
 
 - After completing his doctoral dissertation in theology from Boston U, King moved to Montgomery, Alabama and became pastor of the Dexter Avenue Baptist Church there
 - Following Rosa Parks' arrest and the subsequent Montgomery Bus Boycott, King -- being a well-spoken and well-respected young man with good family connections -- was elected president of the Montgomery Improvement Association
