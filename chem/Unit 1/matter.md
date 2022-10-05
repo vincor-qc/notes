@@ -129,3 +129,58 @@ An intensive property, unique to that substance if pure.
 - Highest temperature in the liquid state at a given pressure
 - Condensation point is same temperature
 - Substances that are volatile will easily evaporate. *They have high vapor pressure, and low boiing point.*
+
+## Classifying Matter
+![[Screen Shot 2022-10-05 at 12.26.17 PM.png]]
+*Page 6, Oxford Chemistry*
+
+### Homogeneous
+- Relatively uniform, appears the same throughout, the mixture is the same no matter where its sampled.
+- Solutions are homogenous mixtures where a solute is dissolved in a solvent and the resulting particles are very small ($\pu{10^{-9}m}$)
+- Concentraltion `[ ]` (denoted with these brackets), is a measure of the amount of solute in a solution, usually in $\pu{g L^{-1}}$
+- **Special homogenous mixtures: Colloids**
+	- A mixture of 2 phases of matter
+	- Appear homogenous to the naked eye, but are made up of tiny, dispersed particles between 1nm and 1um, distributed in a solid liquid, or gas
+	- Colloid particles can be in a different phase than what they are suspended in.
+	- Remain suspended indefinitely (don't settle out)
+	- Example: fog, mayonaise
+	- *Tyndall Effect:* Scattering of light by colloidal particles; fog is water or ice suspended in air
+
+|Type of solution| Example|
+|--- |------------------------|
+| Gas in Gas | Air (oxygen, nitrogen) |
+| Gas in Liquid | Coca Cola |
+| Liquid in Liquid | Water and alcohol |
+| Solid in Liquid | Salt in Water |
+| Solid in Solid | Alloys |
+
+### Heterogenous
+- Compotition varies from position to position within the samples and one or more components is visible to the naked eye.
+- **Special Heterogeneous Mixtures: Suspensions**
+	- Particles are larger than in solutions or colloids and dispersed.
+	- Because of their greater size, they will settle out (sediment) if left standing
+	- Usually solids in liquids or gas
+
+## Physical Seperation of Mixtures
+
+### Mechanical
+1. **Density Seperation** - Particles with higher density than the medium will sink (sediment)
+	- Decanting - Pouring off liquid leaving sediment
+	- Filtration - Seperates solid from liquid; pouring through a filter (filter is the filtrate, sediment is the residue)
+2. **Magnetic Separation** - Iron filings are magnetic, can seperate them out of mixtures of other metals
+3. **Centrifugation** - Rapid spinning increases sinking of particles.
+	- Used for seperating components of blood (red blood cells and platelets sink to bottom, plasma on top; all drugs and metabolities end up in plasma)
+
+
+### Non Mechanical
+1. **Chromatography** - A family of techniques used to separate complex mixtures.
+	- There is a stationary phase (does not move) and a mobile phase (does move) which seperates components based on their:
+		- Relative boiling point (Ggas chromatography)
+		- Relative polarity (high performance liquid chromatography)
+		- Solubility in solvent (paper chromatography)
+- **Paper Chromatography** - Method of analyzing cxmplex mixtures (ink) by separating them into their primary colour components. 
+	- Relies on Rf value (ratio of front) as follows:
+	- ![[Pasted image 20221005124910.png]]
+- **Evaporation** - Seperates solid from liquid. Liquid is boiled away and solid is left over.
+- **Distillation** - Seperates liquids from liquids based on their different boiling points. Components are the removed from the homogenous mixture one by one, the liquid with the lowest boiling point is collected first.
+	- ![[Pasted image 20221005125256.png]]
