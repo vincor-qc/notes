@@ -44,7 +44,7 @@ They must include:
 > [!warning]
 > A graph is not complete until you show the relationship of the variable with a line or a curve
 
-- Data points that do not fall withint the trend of the other may represent errors
+- Data points that do not fall within the trend of the other may represent errors
 - Never connect the dots of the data, since each of them will carry uncertainty errors
 - Our best fit line or curve is the best representation of the relationship between two variables.
 - Interpolation *must be shown* on the graph, where nessecary.

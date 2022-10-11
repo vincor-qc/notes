@@ -52,4 +52,4 @@ Assume that the actual width of a room is $\pu{5.32000 m}$, and the following me
 2. If the uncertainty is given, round the value to the uncertainty
 	- If a value of $\pu{20.01m}$ is given with an uncertainty of $\pu{\pm0.1m}$, then the value should be rounded to $\pu{20.0 ± 0.1m}$
 
-**The uncertainty must have one non-zero digit!**
+**The uncertainty must have only one non-zero digit!**

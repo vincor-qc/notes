@@ -81,7 +81,7 @@ A foruth state, *plasma*, has all the properties of a gas expcet that is compose
 - Can be diffcult to reverse
 
 >[!info]
->**Energy changes always accompnay chemical changes!**
+>**Energy changes always accompany chemical changes!**
 
 **Examples**
 1. Water gets warmer when sodium hydroxide dissolves in it (P)
@@ -106,13 +106,13 @@ A foruth state, *plasma*, has all the properties of a gas expcet that is compose
 *Page 3, Oxford IB Chemistry*
 
 >[!warning] Exam Tip
-**$\Delta\ce{H^\circ_{fus}}$ = Heat of fusion** - The amount of heat required to convert a solid at its melting poinjt into a liquid withou an increase in temperature.
+**$\Delta\ce{H^\circ_{fus}}$ = Heat of fusion** - The amount of heat required to convert a solid at its melting point into a liquid without an increase in temperature.
 >
 **$\Delta\ce{H^\circ_{vap}}$ = Heat of vaporization** - The heat required to transform a given quantity of substance into a gas at a given pressure. It is the difference in potential energy between the liquid and gas states without an increase in termperature. 
 
 *Gases release the same amount of heat when they liquefy*
 
-**Why is $\Delta\ce{H^\circ_{vap}}$ > $\Delta\ce{H^\circ_{fus}}$ (why is the plateau longer)?**
+**Why is $\Delta\ce{H^\circ_{vap}} > \Delta\ce{H^\circ_{fus}}$ (why is the plateau longer)?**
 It takes more energy to go from liquid to gas, than from solid to liquid.
 
 **Why doesn't temperature change during a phase change?**
@@ -178,9 +178,10 @@ An intensive property, unique to that substance if pure.
 		- Relative boiling point (Ggas chromatography)
 		- Relative polarity (high performance liquid chromatography)
 		- Solubility in solvent (paper chromatography)
-- **Paper Chromatography** - Method of analyzing cxmplex mixtures (ink) by separating them into their primary colour components. 
+- **Paper Chromatography** - Method of analyzing complex mixtures (ink) by separating them into their primary colour components. 
 	- Relies on Rf value (ratio of front) as follows:
 	- ![[Pasted image 20221005124910.png]]
+	- [Youtube | Paper Chromatograph Explained](https://www.youtube.com/watch?v=uOhefwQBAbI)
 - **Evaporation** - Seperates solid from liquid. Liquid is boiled away and solid is left over.
 - **Distillation** - Seperates liquids from liquids based on their different boiling points. Components are the removed from the homogenous mixture one by one, the liquid with the lowest boiling point is collected first.
 	- ![[Pasted image 20221005125256.png]]
