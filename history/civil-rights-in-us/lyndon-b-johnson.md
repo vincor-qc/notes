@@ -2,6 +2,9 @@
 - A key figure in the fight for civil rights after being elected as president
 - He was a white Texan who had been Senate Majority Leader
 - Also known to use many racial slurs
+  
+>[!info]
+>Lyndon B. Johnson was the $\ce{36^{th}}$ president
 
 ## Administration Aims
 - The primary focus of his administration was still the Cold War
@@ -14,6 +17,7 @@
 - When the Civil Rights act was first passed, Johnson was angered by the lack of praise
 	- He was met with civil unrest instead, which made it clear that more legislation was needed
 - Due to the unrest, he signed the Civil Rights Act of 1968 (The Fair Housing Act), which banned discriminatory practices in the sale/rental of homes
+- Continued to push the civil rights legislation after JFK's death
 
 ## Legacy
 - His presidency was critical to the passage of important civil rights bills
