@@ -1,4 +1,3 @@
-# Persepolis
 
 ## Historical
 **Post WW2**
