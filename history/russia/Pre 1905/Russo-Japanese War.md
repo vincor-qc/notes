@@ -1,0 +1,11 @@
+- Believed that decaying Chinese empire offered expansion into the Manchuria area
+- Japan favoured a peace treaty, but Russia dissented
+- Russians were interested in Port Arthur
+	- Built a railway to it through northern Manchuria, with the approval of a weakened China
+- Russia presence in the Liandong peninsula sparked conflict with the Japanese
+	- Japan attacked Port Arthur on **8 February 1904**
+	- Unable to support conflict 9600km away from Moscow
+	- Russians tried to send many warfleets, but all of them were destroyed or captured
+- Minister of internal affairs, Vyacheslav von Plehve, suggested that a short and victorious war would put an end to political instability
+	- He was wrong
+- 
